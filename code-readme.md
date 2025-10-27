@@ -503,4 +503,6 @@ When run directly (not imported), this starts the Flask web server:
 5. **Embeddings in NLP**: https://huggingface.co/blog/getting-started-with-embeddings
 6. **Cosine Similarity**: https://en.wikipedia.org/wiki/Cosine_similarity
 
+TEST FOR CHAT GPT CODE REVIER
+
 This application demonstrates a powerful technique for creating natural language interfaces to databases, combining template matching with embeddings-based semantic similarity to understand user intent.
